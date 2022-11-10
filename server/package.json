@@ -11,7 +11,7 @@
     "start": "node dist/index.js"
   },
   "keywords": [],
-  "author": "Zoot01",
+  "author": "Anzal",
   "license": "ISC",
   "dependencies": {
     "apollo-server-core": "^3.10.1",
